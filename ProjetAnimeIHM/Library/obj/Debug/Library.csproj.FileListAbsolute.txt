@@ -1,0 +1,5 @@
+C:\Users\Henrick\Documents\Visual Studio 2015\Projects\ProjetAnimeIHM\Library\bin\Debug\Library.dll
+C:\Users\Henrick\Documents\Visual Studio 2015\Projects\ProjetAnimeIHM\Library\bin\Debug\Library.pdb
+C:\Users\Henrick\Documents\Visual Studio 2015\Projects\ProjetAnimeIHM\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Henrick\Documents\Visual Studio 2015\Projects\ProjetAnimeIHM\Library\obj\Debug\Library.dll
+C:\Users\Henrick\Documents\Visual Studio 2015\Projects\ProjetAnimeIHM\Library\obj\Debug\Library.pdb
