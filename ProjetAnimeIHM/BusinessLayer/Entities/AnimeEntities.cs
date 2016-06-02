@@ -37,7 +37,7 @@ namespace BusinessLayer.Entities
             public int Annee { get; set; }
             public String Auteurs { get; set; }
             public String Studios { get; set; }
-            public Genres Genres { get; set; }
+            public List<Genres> Genres { get; set; }
             public String Synopsis { get; set; }
     }
 }

@@ -22,10 +22,10 @@
 
         <Grid.RowDefinitions>
             <!-- Creation des lignes du tableau -->
-            <RowDefinition Height="45"/>
-            <RowDefinition Height="37.5"/>
-            <RowDefinition Height="250"/>
-            <RowDefinition/>
+            <RowDefinition Height="45*"/>
+            <RowDefinition Height="37.5*"/>
+            <RowDefinition Height="250*"/>
+            <RowDefinition Height="42*"/>
         </Grid.RowDefinitions>
 
         <!-- Entête -->
@@ -83,13 +83,13 @@
                         <RowDefinition/>
                     </Grid.RowDefinitions>
 
-                    <TextBlock Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" Text="{Binding Anime.Titre,UpdateSourceTrigger=PropertyChanged}" TextAlignment="Center"/>
+                <TextBlock Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" TextWrapping="WrapWithOverflow" Text="{Binding Anime.Titre,UpdateSourceTrigger=PropertyChanged}" TextAlignment="Center"/>
                     <Image Grid.Column="0" Grid.Row="1" Grid.RowSpan="4" Source="{Binding Anime.Image,UpdateSourceTrigger=PropertyChanged}" Margin="2,0"/>
                     <TextBlock Grid.Column="1" Grid.Row="1" Text="{Binding Anime.Annee,UpdateSourceTrigger=PropertyChanged}" Margin="2,0"/>
-                    <TextBlock Grid.Column="1" Grid.Row="2" Text="{Binding Anime.Auteurs,UpdateSourceTrigger=PropertyChanged}" Margin="2,0"/>
-                    <TextBlock Grid.Column="1" Grid.Row="3" Text="{Binding Anime.Studios,UpdateSourceTrigger=PropertyChanged}" Margin="2,0"/>
-                    <TextBlock Grid.Column="1" Grid.Row="4" Text="{Binding Anime.Genres,UpdateSourceTrigger=PropertyChanged}" Margin="2,0"/>
-                    <TextBlock Grid.Column="0" Grid.Row="5" Grid.ColumnSpan="2" Text="{Binding Anime.Synopsis,UpdateSourceTrigger=PropertyChanged}" Margin="2,5"/>
+                <TextBlock Grid.Column="1" Grid.Row="2" TextWrapping="WrapWithOverflow" Text="{Binding Anime.Auteurs,UpdateSourceTrigger=PropertyChanged}" Margin="2,0"/>
+                <TextBlock Grid.Column="1" Grid.Row="3" TextWrapping="WrapWithOverflow" Text="{Binding Anime.Studios,UpdateSourceTrigger=PropertyChanged}" Margin="2,0"/>
+                <TextBlock Grid.Column="1" Grid.Row="4" TextWrapping="WrapWithOverflow" Text="{Binding Anime.GenresAnime,UpdateSourceTrigger=PropertyChanged}" Margin="2,0"/>
+                <TextBlock Grid.Column="0" Grid.Row="5" Grid.ColumnSpan="2" TextWrapping="WrapWithOverflow" Text="{Binding Anime.Synopsis,UpdateSourceTrigger=PropertyChanged}" Margin="2,5"/>
                 </Grid>
             </Border>
 
