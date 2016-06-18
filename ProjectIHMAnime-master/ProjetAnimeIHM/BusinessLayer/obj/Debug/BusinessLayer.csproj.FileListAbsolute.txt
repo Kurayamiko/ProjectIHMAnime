@@ -1,0 +1,9 @@
+C:\Users\Henrick\Documents\Visual Studio 2015\Projects\ProjetAnimeIHM\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Henrick\Documents\Visual Studio 2015\Projects\ProjetAnimeIHM\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Henrick\Documents\Visual Studio 2015\Projects\ProjetAnimeIHM\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Henrick\Documents\Visual Studio 2015\Projects\ProjetAnimeIHM\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Henrick\Documents\Visual Studio 2015\Projects\ProjetAnimeIHM\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\BusinessLayer\obj\Debug\BusinessLayer.pdb

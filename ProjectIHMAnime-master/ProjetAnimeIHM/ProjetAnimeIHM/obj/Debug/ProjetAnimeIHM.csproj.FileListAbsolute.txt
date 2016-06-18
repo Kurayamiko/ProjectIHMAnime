@@ -1,0 +1,40 @@
+c:\users\henrick\documents\visual studio 2015\Projects\ProjetAnimeIHM\ProjetAnimeIHM\bin\Debug\ProjetAnimeIHM.exe.config
+c:\users\henrick\documents\visual studio 2015\Projects\ProjetAnimeIHM\ProjetAnimeIHM\bin\Debug\ProjetAnimeIHM.exe
+c:\users\henrick\documents\visual studio 2015\Projects\ProjetAnimeIHM\ProjetAnimeIHM\bin\Debug\ProjetAnimeIHM.pdb
+c:\users\henrick\documents\visual studio 2015\Projects\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\MainWindow.g.cs
+c:\users\henrick\documents\visual studio 2015\Projects\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\App.g.cs
+c:\users\henrick\documents\visual studio 2015\Projects\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\ProjetAnimeIHM_MarkupCompile.cache
+c:\users\henrick\documents\visual studio 2015\Projects\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\ProjetAnimeIHM_MarkupCompile.lref
+c:\users\henrick\documents\visual studio 2015\Projects\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\MainWindow.baml
+c:\users\henrick\documents\visual studio 2015\Projects\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\ProjetAnimeIHM.g.resources
+c:\users\henrick\documents\visual studio 2015\Projects\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\ProjetAnimeIHM.Properties.Resources.resources
+c:\users\henrick\documents\visual studio 2015\Projects\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\ProjetAnimeIHM.csproj.GenerateResource.Cache
+c:\users\henrick\documents\visual studio 2015\Projects\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\ProjetAnimeIHM.exe
+c:\users\henrick\documents\visual studio 2015\Projects\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\ProjetAnimeIHM.pdb
+c:\users\henrick\documents\visual studio 2015\Projects\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\Ajouter.g.cs
+c:\users\henrick\documents\visual studio 2015\Projects\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\Ajouter.baml
+c:\users\henrick\documents\visual studio 2015\Projects\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\Modifier.g.cs
+c:\users\henrick\documents\visual studio 2015\Projects\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\Modifier.baml
+C:\Users\Henrick\Documents\Visual Studio 2015\Projects\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\ProjetAnimeIHM.csprojResolveAssemblyReference.cache
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\ProjetAnimeIHM\bin\Debug\ProjetAnimeIHM.exe.config
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\ProjetAnimeIHM.exe
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\ProjetAnimeIHM.pdb
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\ProjetAnimeIHM\bin\Debug\ProjetAnimeIHM.exe
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\ProjetAnimeIHM\bin\Debug\ProjetAnimeIHM.pdb
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\ProjetAnimeIHM.csprojResolveAssemblyReference.cache
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\Ajouter.g.cs
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\MainWindow.g.cs
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\Modifier.g.cs
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\App.g.cs
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\ProjetAnimeIHM_MarkupCompile.cache
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\ProjetAnimeIHM_MarkupCompile.lref
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\Ajouter.baml
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\MainWindow.baml
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\Modifier.baml
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\ProjetAnimeIHM.g.resources
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\ProjetAnimeIHM.Properties.Resources.resources
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\ProjetAnimeIHM\obj\Debug\ProjetAnimeIHM.csproj.GenerateResource.Cache
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\ProjetAnimeIHM\bin\Debug\BusinessLayer.dll
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\ProjetAnimeIHM\bin\Debug\Library.dll
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\ProjetAnimeIHM\bin\Debug\BusinessLayer.pdb
+C:\Users\auchanpc\Music\ProjectIHMAnime-master\ProjetAnimeIHM\ProjetAnimeIHM\bin\Debug\Library.pdb
